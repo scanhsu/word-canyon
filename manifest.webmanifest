@@ -1,0 +1,17 @@
+{
+  "name": "單字峽谷",
+  "short_name": "單字峽谷",
+  "description": "高一英文推塔遊戲：佔領島嶼、答對單字發動技能",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b161c",
+  "theme_color": "#0b161c",
+  "lang": "zh-Hant",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
